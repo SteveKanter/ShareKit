@@ -9,4 +9,4 @@
 	url = https://github.com/samsoffes/sskeychain.git
 [submodule "Submodules/objectiveflickr"]
 	path = Submodules/objectiveflickr
-	url = https://github.com/lukhnos/objectiveflickr.git
+	url = https://github.com/stevekanter/objectiveflickr.git
